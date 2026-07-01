@@ -20,5 +20,5 @@ The goal is to provide a clean foundation for beginners learning Go web developm
 - ✅ Modular structure (`models`, `controller`, `config`)  
 - ✅ `.env` support for configuration  
 - ✅ No external database — portable and self-contained  
-
+added feature
 ---
